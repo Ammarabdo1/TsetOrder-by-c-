@@ -1,0 +1,11 @@
+D:\K47.Corses\Y2\T2\OOP(C#)\C_Sessoins\Projects\CMSApp\CMSApp.BL\bin\Debug\net8.0\CMSApp.BL.deps.json
+D:\K47.Corses\Y2\T2\OOP(C#)\C_Sessoins\Projects\CMSApp\CMSApp.BL\bin\Debug\net8.0\CMSApp.BL.dll
+D:\K47.Corses\Y2\T2\OOP(C#)\C_Sessoins\Projects\CMSApp\CMSApp.BL\bin\Debug\net8.0\CMSApp.BL.pdb
+D:\K47.Corses\Y2\T2\OOP(C#)\C_Sessoins\Projects\CMSApp\CMSApp.BL\obj\Debug\net8.0\CMSApp.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\K47.Corses\Y2\T2\OOP(C#)\C_Sessoins\Projects\CMSApp\CMSApp.BL\obj\Debug\net8.0\CMSApp.BL.AssemblyInfoInputs.cache
+D:\K47.Corses\Y2\T2\OOP(C#)\C_Sessoins\Projects\CMSApp\CMSApp.BL\obj\Debug\net8.0\CMSApp.BL.AssemblyInfo.cs
+D:\K47.Corses\Y2\T2\OOP(C#)\C_Sessoins\Projects\CMSApp\CMSApp.BL\obj\Debug\net8.0\CMSApp.BL.csproj.CoreCompileInputs.cache
+D:\K47.Corses\Y2\T2\OOP(C#)\C_Sessoins\Projects\CMSApp\CMSApp.BL\obj\Debug\net8.0\CMSApp.BL.dll
+D:\K47.Corses\Y2\T2\OOP(C#)\C_Sessoins\Projects\CMSApp\CMSApp.BL\obj\Debug\net8.0\refint\CMSApp.BL.dll
+D:\K47.Corses\Y2\T2\OOP(C#)\C_Sessoins\Projects\CMSApp\CMSApp.BL\obj\Debug\net8.0\CMSApp.BL.pdb
+D:\K47.Corses\Y2\T2\OOP(C#)\C_Sessoins\Projects\CMSApp\CMSApp.BL\obj\Debug\net8.0\ref\CMSApp.BL.dll

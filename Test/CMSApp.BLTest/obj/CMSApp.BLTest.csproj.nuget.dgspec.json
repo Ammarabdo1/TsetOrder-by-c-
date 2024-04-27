@@ -1,0 +1,213 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\K47.Corses\\Y2\\T2\\OOP(C#)\\C_Sessoins\\Projects\\CMSApp\\Test\\CMSApp.BLTest\\CMSApp.BLTest.csproj": {}
+  },
+  "projects": {
+    "D:\\K47.Corses\\Y2\\T2\\OOP(C#)\\C_Sessoins\\Projects\\CMSApp\\CMSApp.BL\\CMSApp.BL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\K47.Corses\\Y2\\T2\\OOP(C#)\\C_Sessoins\\Projects\\CMSApp\\CMSApp.BL\\CMSApp.BL.csproj",
+        "projectName": "CMSApp.BL",
+        "projectPath": "D:\\K47.Corses\\Y2\\T2\\OOP(C#)\\C_Sessoins\\Projects\\CMSApp\\CMSApp.BL\\CMSApp.BL.csproj",
+        "packagesPath": "C:\\Users\\amara\\.nuget\\packages\\",
+        "outputPath": "D:\\K47.Corses\\Y2\\T2\\OOP(C#)\\C_Sessoins\\Projects\\CMSApp\\CMSApp.BL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\amara\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\K47.Corses\\Y2\\T2\\OOP(C#)\\C_Sessoins\\Projects\\CMSApp\\CMSApp.Order\\CMSApp.Order.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\K47.Corses\\Y2\\T2\\OOP(C#)\\C_Sessoins\\Projects\\CMSApp\\CMSApp.Order\\CMSApp.Order.csproj",
+        "projectName": "CMSApp.Order",
+        "projectPath": "D:\\K47.Corses\\Y2\\T2\\OOP(C#)\\C_Sessoins\\Projects\\CMSApp\\CMSApp.Order\\CMSApp.Order.csproj",
+        "packagesPath": "C:\\Users\\amara\\.nuget\\packages\\",
+        "outputPath": "D:\\K47.Corses\\Y2\\T2\\OOP(C#)\\C_Sessoins\\Projects\\CMSApp\\CMSApp.Order\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\amara\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\K47.Corses\\Y2\\T2\\OOP(C#)\\C_Sessoins\\Projects\\CMSApp\\Test\\CMSApp.BLTest\\CMSApp.BLTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\K47.Corses\\Y2\\T2\\OOP(C#)\\C_Sessoins\\Projects\\CMSApp\\Test\\CMSApp.BLTest\\CMSApp.BLTest.csproj",
+        "projectName": "CMSApp.BLTest",
+        "projectPath": "D:\\K47.Corses\\Y2\\T2\\OOP(C#)\\C_Sessoins\\Projects\\CMSApp\\Test\\CMSApp.BLTest\\CMSApp.BLTest.csproj",
+        "packagesPath": "C:\\Users\\amara\\.nuget\\packages\\",
+        "outputPath": "D:\\K47.Corses\\Y2\\T2\\OOP(C#)\\C_Sessoins\\Projects\\CMSApp\\Test\\CMSApp.BLTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\amara\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\K47.Corses\\Y2\\T2\\OOP(C#)\\C_Sessoins\\Projects\\CMSApp\\CMSApp.BL\\CMSApp.BL.csproj": {
+                "projectPath": "D:\\K47.Corses\\Y2\\T2\\OOP(C#)\\C_Sessoins\\Projects\\CMSApp\\CMSApp.BL\\CMSApp.BL.csproj"
+              },
+              "D:\\K47.Corses\\Y2\\T2\\OOP(C#)\\C_Sessoins\\Projects\\CMSApp\\CMSApp.Order\\CMSApp.Order.csproj": {
+                "projectPath": "D:\\K47.Corses\\Y2\\T2\\OOP(C#)\\C_Sessoins\\Projects\\CMSApp\\CMSApp.Order\\CMSApp.Order.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
